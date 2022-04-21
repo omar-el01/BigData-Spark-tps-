@@ -1,8 +1,3 @@
-  DÉPARTEMENT MATHÉMATIQUES ET INFORMATIQUE 
-Compte Rendu 
-Filière : 
-« Ingénierie Informatique : Big Data et Cloud Computing » II-BDCC 
- Réalisé par : Omar EL-AQQAD
 Exercices : Traitement parallèle et distribué avec Spark 
 Exercice 1 : 
 On considère le graphe suivant qui représente le lignée des RDDS :  Le premier RDD (RDD1) est créé en parallélisant une collection contenant des noms des étudiants. Ecrivez une application Spark qui permet de réaliser ce 
@@ -66,18 +61,18 @@ Input: 1750.csv
 ![image](https://user-images.githubusercontent.com/80116765/164467100-b06a198d-a477-4185-8af4-0bb83f6bfec6.png)
 
 • Température minimale la plus basse.
+![image](https://user-images.githubusercontent.com/80116765/164470166-9224df22-5746-4bb3-a88c-159df1ef5c70.png)
+![image](https://user-images.githubusercontent.com/80116765/164470392-ab927e5b-d096-432f-9a42-9c43c2f51823.png)
 
-  ![image](https://user-images.githubusercontent.com/80116765/164467133-89d9afba-a129-4bdd-b643-f33d3c18f654.png)
-![image](https://user-images.githubusercontent.com/80116765/164467167-a71f9ca8-08c3-4bc6-92d7-28de28cda52d.png)
 
 • Top 5 des stations météo les plus chaudes. 
+![image](https://user-images.githubusercontent.com/80116765/164470487-75601c3b-807c-4e62-9794-7ae094630222.png)
+![image](https://user-images.githubusercontent.com/80116765/164470595-e237a6e4-caa1-4a7b-850b-2427c24554e4.png)
 
-  ![image](https://user-images.githubusercontent.com/80116765/164467203-bf2b99b8-6598-4170-8629-abe427896984.png)
-![image](https://user-images.githubusercontent.com/80116765/164467243-3e3d6017-dab2-4a20-b2b9-d2d6ddbbeb0d.png)
 
 • Top 5 des stations météo les plus froides. 
+![image](https://user-images.githubusercontent.com/80116765/164470667-5625c2d5-b8a3-43dd-8128-155741a9d8a8.png)
+![image](https://user-images.githubusercontent.com/80116765/164470756-c32437db-e0a7-4128-a23b-f38b6d66bacc.png)
 
-  ![image](https://user-images.githubusercontent.com/80116765/164467268-43c11998-559f-4d09-b277-4762525e420d.png)
-![Uploading image.png…]()
 
 Mr. Abdelmajid BOUSSELHAM 2
