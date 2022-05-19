@@ -1,0 +1,6 @@
+[
+  {"id": 1,"name": "omar","phone": "0975858581","salary": 90909.99,"age": 22,"departement": "Data Enginner"},
+  {"id": 5,"name": "Mohamed","phone": "068493399585","salary": 1234.99,"age": 52,"departement": "Marketing"},
+  {"id": 6,"name": "jon","phone": "064858949394","salary": 99921.99,"age": 34,"departement": "Software Engineering"},
+  {"id": 8,"name": "Jalal","phone": "078498478585","salary": 567824.99,"age": 30,"departement": "Big Data ENginner"}
+]
